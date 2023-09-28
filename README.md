@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m interested in Machine Learning, Neural Networks, LLM, and Reinforcement Learning Projects. 
+- 🔭 Interest in LLM and latent diffusion models. MSCS specializing in ML at UMass, expected graduation 2024. 
 - 🌱 I’m currently working on a personal project using LangChain, experimenting with how to make them stay focused.  
 - 👯 I’m looking to collaborate on research and open-source projects.
-- 😄 My favorite hobbies are swimming, biking, and dancing Zumba.
 
 
 <!--
