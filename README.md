@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 Interest in LLM and latent diffusion models. MSCS specializing in ML at UMass, expected graduation 2024. 
-- 🌱 I’m currently working on a personal project using LangChain, experimenting with how to make them stay focused.  
-- 👯 I’m looking to collaborate on research and open-source projects.
+🔭 I am interested in applying Large Language Models (LLMs), Machine Learning (ML), and Deep Neural Networks (DNN) in the medical industry, particularly for processing time-series motion capture (mocap) and wearable data, as well as data collection. I am pursuing an MSCS specializing in Machine Learning at UMass, with an expected graduation in May 2024.
+
+🌱 Currently, I am focused on achieving high-quality results using fine-tuned LlaMA-2 and ICD-11 data.
+
+👯 I am actively seeking collaboration opportunities for research and open-source projects within the medical industry.
 
 
 <!--
